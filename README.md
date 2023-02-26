@@ -49,6 +49,8 @@ Our new annotation for PSG dataset is available at:
 
 https://drive.google.com/file/d/1X4WSryDo0BE5uEWBSY1v0vrLp2jtPQi5/view?usp=sharing
 
+Users should change the json filename in config/_base_/datasets/psg.py (Line 4-5) to './data/psg/psg.json'.
+
 ## Testing
 Run the scripts below:
 ```bash
