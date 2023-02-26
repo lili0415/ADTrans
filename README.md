@@ -42,7 +42,12 @@ Original [Datasets](https://entuedu-my.sharepoint.com/:f:/g/personal/jingkang001
 Our codebase accesses the datasets from `./data/` and pretrained models from `./work_dirs/checkpoints/` by default.
 
 Our checkpoint is available at:
+
 https://drive.google.com/file/d/1EWcqu8HHt2ClufKVUMY_fvrSdJjgln3Y/view?usp=sharing
+
+Our new annotation for PSG dataset is available at:
+
+https://drive.google.com/file/d/1X4WSryDo0BE5uEWBSY1v0vrLp2jtPQi5/view?usp=sharing
 
 ## Testing
 Run the scripts below:
