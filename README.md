@@ -37,11 +37,12 @@ pip install -v -e .
 # thus any local modifications made to the code will take effect without reinstallation.
 ```
 
-[Datasets](https://entuedu-my.sharepoint.com/:f:/g/personal/jingkang001_e_ntu_edu_sg/EgQzvsYo3t9BpxgMZ6VHaEMBDAb7v0UgI8iIAExQUJq62Q?e=fIY3zh) and [pretrained models](https://entuedu-my.sharepoint.com/:f:/g/personal/jingkang001_e_ntu_edu_sg/ErQ4stbMxp1NqP8MF8YPFG8BG-mt5geOrrJfAkeitjzASw?e=9taAaU) are provided. Please unzip the files if necessary.
+Original [Datasets](https://entuedu-my.sharepoint.com/:f:/g/personal/jingkang001_e_ntu_edu_sg/EgQzvsYo3t9BpxgMZ6VHaEMBDAb7v0UgI8iIAExQUJq62Q?e=fIY3zh) and [pretrained models](https://entuedu-my.sharepoint.com/:f:/g/personal/jingkang001_e_ntu_edu_sg/ErQ4stbMxp1NqP8MF8YPFG8BG-mt5geOrrJfAkeitjzASw?e=9taAaU) are provided. Please unzip the files if necessary.
 
 Our codebase accesses the datasets from `./data/` and pretrained models from `./work_dirs/checkpoints/` by default.
 
 Our checkpoint is available at:
+https://drive.google.com/file/d/1EWcqu8HHt2ClufKVUMY_fvrSdJjgln3Y/view?usp=sharing
 
 ## Testing
 Run the scripts below:
