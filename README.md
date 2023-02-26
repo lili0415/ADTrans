@@ -54,7 +54,6 @@ Users should change the json filename in config/_base_/datasets/psg.py (Line 4-5
 ## Testing
 Run the scripts below:
 ```bash
-# sh scripts/imp/test_panoptic_fpn_r50_sgdet.sh
 PYTHONPATH='.':$PYTHONPATH  \
 python tools/test.py  \
 configs/psgtr/psgtr_r50_psg.py \
