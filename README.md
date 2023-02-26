@@ -43,13 +43,14 @@ Our codebase accesses the datasets from `./data/` and pretrained models from `./
 
 Our checkpoint is available at:
 
-**Testing**
+## Testing
+Run the scripts below:
 ```bash
 # sh scripts/imp/test_panoptic_fpn_r50_sgdet.sh
-PYTHONPATH='.':$PYTHONPATH \
-python tools/test.py \
-  configs/imp/panoptic_fpn_r50_fpn_1x_sgdet_psg.py \
-  path/to/checkpoint.pth \
-  --eval sgdet
+PYTHONPATH='.':$PYTHONPATH  \
+python tools/test.py  \
+configs/psgtr/psgtr_r50_psg.py \
+work_dirs/PATH_TO_CHECKPOINT \
+--eval sgdet
 ```
 
