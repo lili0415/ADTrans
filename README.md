@@ -1,4 +1,4 @@
-# ADTran
+# ADTrans
 ## Steps to get started
 To setup the environment, we use `conda` to manage our dependencies.
 
